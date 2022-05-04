@@ -1,0 +1,13 @@
+.myBtn {
+    padding: 5px 15px;
+    color:  teal;
+    font-size: 15px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+}
+
+.myDivBtn {
+    display: flex;
+    justify-content: end;
+}
